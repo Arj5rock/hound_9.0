@@ -1,4 +1,4 @@
-# hound 🐶
+# hound v9.0 🐶
 Hound is a simple and light tool for information gathering and capture exact GPS coordinates
 ![image](hound_9.0.png)
 
@@ -52,9 +52,5 @@ bash hound.sh
 ## Change log:
 Version: 0.2: Remove Ngrok and update cloudflared tunnel
 
-### Video Demo
-[![Hound Demo](https://img.youtube.com/vi/IiJRyVmITgI/0.jpg)](https://www.youtube.com/watch?v=IiJRyVmITgI)
-
-### For More Video subcribe <a href="http://youtube.com/techchipnet">TechChip YouTube Channel</a>
 <p>Hound is created to help in penetration testing and it's not responsible for any misuse or illegal purposes.</p>
-credit - Chatbot template : Masud Rana
+credit - Chatbot template : Arjun Kumar
